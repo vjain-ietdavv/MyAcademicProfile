@@ -1,2 +1,0 @@
-This is my first file. 
-I have changed this file directly on GitHub.
